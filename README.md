@@ -48,15 +48,10 @@ A web-based **Tic Tac Toe** game developed using **HTML, CSS, and JavaScript**, 
 ##  Project Structure
 
 tic-tac-toe-ai/
-
 │
-
 ├── index.html # Main game interface
-
 ├── style.css # Styling and layout
-
 ├── index.js # Game logic + AI implementation
-
 └── miraDesign5.png # Background image
 
 ---
